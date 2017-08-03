@@ -25,7 +25,7 @@ SECRET_KEY = '#n6e!8gm--kiexs)s^_)66pfgd^e4_ek*@=#bs4$33p%(#y4!k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['marcribet.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'marcribet.pythonanywhere.com']
 
 # Application definition
 
